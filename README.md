@@ -1,8 +1,4 @@
-# filminfomation
+###  filminfomation
+项目的展示：
+![image][https://github.com/CodingClearLoveLove/filmInfomation/blob/master/info/tabbar.gif]
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
